@@ -38,7 +38,7 @@ const Footerr = () => {
             </div>
 
             <hr className='p-0 m-0 w-full'/>
-            <p className='mx-auto text-center text-lg md:text-3xl'>&copy; Copyright 2025.All rights reserved</p>
+            <p className='mx-auto text-center text-lg md:text-xl'>&copy; Copyright 2025.All rights reserved</p>
 
         </section>
     </>
